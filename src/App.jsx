@@ -12,7 +12,7 @@ const App = () => {
   const{currentUser,isLoading,fetchUserInfo}=useUserStore();
   const{ chatId }=useChatStore();
 
-
+//
   useEffect(()=>{
     const unSub=onAuthStateChanged(auth,(user)=>{
       fetchUserInfo(user?.uid)
