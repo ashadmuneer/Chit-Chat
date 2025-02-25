@@ -1,11 +1,11 @@
 
-# ChitChat - Real-Time Chat Application
+## ChatMate - Real-Time Chat Application
 
-Welcome to the repository for **ChitChat**, a real-time chat application built using React.js, Firebase, and Zustand. The application allows users to chat with each other in real-time, with support for media sharing and notifications.
+Welcome to the repository for **ChatMate**, a real-time chat application built using React.js, Firebase, and Zustand. The application allows users to chat with each other in real-time, with support for media sharing and notifications.
 
 ## Demo
 
-You can view the live version of the application here: [ChitChat](https://chit-chatreactapp.netlify.app/)
+You can view the live version of the application here: [ChatMate](https://chatmate-justchat.netlify.app/)
 
 ## Features
 
@@ -45,8 +45,8 @@ Before getting started, make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ashadmuneer/chit-chat.git
-   cd chit-chat
+   git clone https://github.com/ashadmuneer/ChatMate.git
+   cd ChatMate
    ```
 
 2. Install the required dependencies for the frontend:
